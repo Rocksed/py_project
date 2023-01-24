@@ -1,4 +1,8 @@
-sum_numbers = 2 + 2
-numbers = 2 - 2
+def addition(x, y):
+    result = x + y
+    return print(result)
 
 
+def subtraction(x, y):
+    result = x - y
+    return print(result)
